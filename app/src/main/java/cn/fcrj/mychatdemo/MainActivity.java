@@ -1,5 +1,6 @@
 package cn.fcrj.mychatdemo;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -16,6 +17,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 import cn.fcrj.mychatdemo.activity.BaseActivity;
+import cn.fcrj.mychatdemo.activity.Main2Activity;
 
 public class MainActivity extends BaseActivity {
 
@@ -73,6 +75,7 @@ public class MainActivity extends BaseActivity {
                         EMClient.getInstance().groupManager().loadAllGroups();
                         EMClient.getInstance().chatManager().loadAllConversations();
                         SnackMsg(login, "登录聊天服务器成功！");
+                        startActivity(new Intent(MainActivity.this, Main2Activity.class));
                     }
 
                     @Override
