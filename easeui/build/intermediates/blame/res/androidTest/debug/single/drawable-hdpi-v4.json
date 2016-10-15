@@ -424,12 +424,12 @@
         "source": "E:\\Android\\Github\\MyChatDemo\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ease_mm_listitem_grey_normal.9.png"
     },
     {
-        "merged": "E:\\Android\\Github\\MyChatDemo\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ee_28.png",
-        "source": "E:\\Android\\Github\\MyChatDemo\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ee_28.png"
-    },
-    {
         "merged": "E:\\Android\\Github\\MyChatDemo\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ee_25.png",
         "source": "E:\\Android\\Github\\MyChatDemo\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ee_25.png"
+    },
+    {
+        "merged": "E:\\Android\\Github\\MyChatDemo\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ee_28.png",
+        "source": "E:\\Android\\Github\\MyChatDemo\\easeui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ee_28.png"
     },
     {
         "merged": "E:\\Android\\Github\\MyChatDemo\\easeui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ease_to_group_details_normal.png",
