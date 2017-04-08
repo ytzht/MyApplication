@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">时间</string>
+    <string name="jump">跳转</string>
 </resources>
